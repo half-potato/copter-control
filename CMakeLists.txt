@@ -48,6 +48,7 @@ add_message_files(
    FILES
    CopterDirect.msg
    CopterMove.msg
+   CommandMatrix.msg
 )
 
 ## Generate services in the 'srv' folder
